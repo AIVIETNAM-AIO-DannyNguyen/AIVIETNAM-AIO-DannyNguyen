@@ -1,46 +1,52 @@
-# 👋 Hi, I'm Danny — Retail Data Analyst
+# 👋 Hi there, I'm Danny
 
-I help retail teams answer the questions that actually matter: *What drives sales? Where are we losing revenue? Which customers are worth keeping?*
-
-With a background in Data Analytics, I specialise in **retail & commercial analytics** — turning transactional data into actionable insights that drive real business decisions, not just pretty charts.
-
----
-
-## 🔹 What I Do
-
-- 📈 Analyse sales trends, product mix, and customer behaviour
-- 🛒 Identify cross-sell & basket expansion opportunities using **Association Rule Mining**
-- 🎯 Segment customers by value with **RFM Analysis** (Recency, Frequency, Monetary)
-- 🔄 Track retention and buying patterns through **Cohort Analysis**
-- 📊 Build executive-ready dashboards with **SQL, Power BI & Python**
-- ✅ Apply data quality checks so every decision is based on trustworthy data
+🎓 Master of Business Information Systems graduate at the ANU
+📊 Aspiring Data Scientist | Data Analyst | AI Enthusiast  
 
 ---
 
-## 🧠 How I Think About Data
+## 💡 About Me
 
-> *Data is only useful if it changes a decision.*
+I am a data-driven problem solver with a background in Business Information Systems and hands-on experience in data analysis, SQL, and Python.
 
-Every project here is structured around:
-**Business question → Analytical logic → Measurable outcome**
+Currently, I am working as a **Data Analyst**, where I focus on:
+- Building dashboards and BI reports
+- Writing advanced SQL queries for data extraction and analysis
+- Supporting data-driven decision making across business teams
+- Exploring data pipelines and ETL processes using Python
 
-That's the same framework analytics drives real retail business impact.
-
----
-
-## 🧰 Core Techniques
-
-| Technique | What It Answers |
-|---|---|
-| **RFM Analysis** | Who are my best customers — and who's about to churn? |
-| **Cross-sell / Association Rules** | Which products belong together on the shelf or in the basket? |
-| **Cohort Analysis** | Are we retaining customers month over month? |
+At the same time, I am actively learning **Machine Learning and AI Engineering**, with the goal of transitioning into an **Applied Data Scientist** role.
 
 ---
 
-## 📂 This GitHub Showcases
+## 🧠 What I'm Learning
 
-- Hands-on retail analytics projects with real-world datasets
-- Clean, well-documented **SQL & DAX**
-- Dashboards & reports designed for non-technical stakeholders
-- Focus on **insights that matter**, not just code
+- 📊 Data Analysis: Pandas, NumPy, SQL, Excel, Power BI
+- 🤖 Machine Learning: Scikit-learn, XGBoost, LightGBM
+- 🧠 Deep Learning: PyTorch, Neural Networks
+- 🔍 LLMs & AI: RAG systems, prompt engineering
+
+
+---
+
+## 🎯 Career Goal
+
+My goal is to become an **Applied Data Scientist / Analytics Engineer**, working on real-world AI systems that combine:
+
+- Data engineering
+- Machine learning
+- Business impact
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL  
+**Data Tools:** Pandas, NumPy, Excel  
+**Visualisation:** Power BI, Tableau  
+**ML/AI:** Scikit-learn, XGBoost, PyTorch   
+**Version Control:** Git, GitHub  
+
+---
+
+
