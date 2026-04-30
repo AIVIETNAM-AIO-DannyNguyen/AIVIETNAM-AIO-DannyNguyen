@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Danny
 
-🎓 Master of Business Information Systems graduate at the ANU
+🎓 Master of Applied Data Analytics at the ANU
 📊 Aspiring Data Scientist | Data Analyst | AI Enthusiast  
 
 ---
