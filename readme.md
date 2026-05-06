@@ -7,7 +7,7 @@
 
 ## 💡 About Me
 
-I am a data-driven problem solver with a background in Business Information Systems and hands-on experience in data analysis, SQL, and Python.
+I am a data-driven problem solver with hands-on experience in data analysis, SQL, and Python.
 
 Currently, I am working as a **Data Analyst**, where I focus on:
 - Building dashboards and BI reports
